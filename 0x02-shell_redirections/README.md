@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta
+shell script that creates a file and adds a content
