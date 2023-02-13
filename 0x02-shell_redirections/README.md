@@ -1,1 +1,1 @@
-shell script that creates a file and adds a content
+redirects the output of a command into a file
