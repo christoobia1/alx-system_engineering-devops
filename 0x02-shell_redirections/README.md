@@ -1,1 +1,1 @@
-redirects the output of a command into a file
+script that duplicates the last line of the file iacta
